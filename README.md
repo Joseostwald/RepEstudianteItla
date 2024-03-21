@@ -1,2 +1,2 @@
-# RepEstudianteItla
- Este repositorio es para el curso JavaScript Itla con Julio Capellan
+# RepOstwald
+ This repository is for the projects developed by José Ostwald
